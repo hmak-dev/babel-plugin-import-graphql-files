@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-import-graphql-files",
+  "version": "1.0.0",
+  "description": "Babel plugin to import .gql,.graphql files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "graphql",
+    "gql"
+  ],
+  "author": "Hossein Maktoobian",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-tag": "^2.11.0"
+  }
+}
